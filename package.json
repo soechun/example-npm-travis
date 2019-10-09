@@ -14,6 +14,10 @@
   "bugs": {
     "url": "https://github.com/BlackDuckCoPilot/example-npm-travis/issues"
   },
+    "engines": {
+    "node": ">=8",
+    "npm": ">=6"
+  },
   "homepage": "https://github.com/BlackDuckCoPilot/example-npm-travis#readme",
   "dependencies": {
     "express": "^4.15.4",
